@@ -4,8 +4,6 @@ CobrApp es una aplicación de gestión de créditos y cobranza desarrollada para
 
 Este repositorio de portafolio presenta una selección limitada de funcionalidades, cuatro servicios representativos y capturas de pantalla. No pretende exponer toda la aplicación ni sustituir la documentación interna del proyecto.
 
-> **Privacidad y autorización:** publica únicamente el código fuente que tengas autorización expresa para compartir. Las capturas incluidas en este paquete fueron anonimizadas, pero revísalas antes de hacer público el repositorio. No agregues credenciales, archivos `.env`, exportaciones de base de datos ni información personal.
-
 ## Problema
 
 La gestión manual de créditos y cobranza puede dificultar el seguimiento de cuotas, el cálculo de saldos, la administración del dinero por rutas y la atención de solicitudes de cambio de fecha.
@@ -96,14 +94,7 @@ La muestra de código prevista contiene únicamente estos cuatro servicios:
 - `liquidacion_service.dart`
 - `reprogramaciones_service.dart`
 
-No se incluye el resto de la aplicación. Antes de agregar los archivos Dart al repositorio público, confirma que tienes autorización para publicar el código y revisa que no contenga secretos, datos personales, rutas privadas ni información confidencial del cliente.
-
-## Seguridad
-
-- No publicar contraseñas, tokens, claves privadas ni claves secretas de Supabase.
-- No incluir registros reales, documentos de identidad, teléfonos ni fotografías de clientes.
-- Verificar políticas de Row Level Security (RLS) y permisos del backend.
-- No asumir que ocultar archivos con `.gitignore` elimina secretos que ya fueron enviados al historial de Git.
+No se incluye el resto de la aplicación.
 
 ## Contacto
 
@@ -111,5 +102,6 @@ No se incluye el resto de la aplicación. Antes de agregar los archivos Dart al 
 
 - GitHub: https://github.com/TEOACEVEDO
 - LinkedIn: https://www.linkedin.com/in/teoacevedo/
-
-Para consultas sobre aplicaciones móviles, sistemas empresariales y automatización, puedes contactarme a través de LinkedIn.
+- Gmail: teoacevedo.ma@gmail.com
+- 
+Para consultas sobre aplicaciones móviles, sistemas empresariales y automatización, puedes contactarme a través de mi correo.
